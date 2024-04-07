@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Namaste 🙏, I'm Shefali Sawant
+👩‍💻 About Me
+👩🏻‍💻 Pronouns: She/Her
+💼 I’m currently working as a Senior Digital Engineer at TATA DIGITAL.
+📋 I've previously interned at ICICI Lombard.
+🌱 I love exploring and working both in frontend and backend.
+🎭 I love connecting with new people and hearing their experiences.
+📫 How to reach me: 
+    📧 shefalisawant99@gmail.com
+    🌐 https://www.linkedin.com/in/shefali-sawant-a18448191/
 <!--
 **shefalisawant/shefalisawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
