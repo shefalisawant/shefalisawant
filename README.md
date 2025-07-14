@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 Pronouns: She/Her
 - 📍 I'm based in Mumbai, Maharashtra, INDIA.
-- 💼 I’m currently working as a Senior Digital Engineer at TATA DIGITAL.
+- 💼 I’m currently working as a Senior Software Engineer 2 at TATA DIGITAL.
 - 📋 I've previously interned at ICICI Lombard.
 - 🌱 I love exploring and working both in frontend and backend.
 - 🎭 I love connecting with new people and hearing their experiences.
