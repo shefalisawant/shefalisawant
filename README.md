@@ -3,14 +3,14 @@
 #### 👩‍💻 About Me
 
 - 👩🏻‍💻 Pronouns: She/Her
-- 📍 I'm based in Mumbai, Maharashtra, INDIA.
-- 💼 I’m currently working as a Senior Software Engineer 2 at TATA DIGITAL.
-- 📋 I've previously interned at ICICI Lombard.
+- 📍 Currently based in Bengaluru, Karnataka, INDIA.
+- 💼 I’m currently working as a Frontend Engineer at Axi(AxiTrader Ltd).
+- 📋 I've previously worked as Senior Software Engineer 2 at TATA DIGITAL (TATA Neu) and before that interned at ICICI Lombard.
 - 🌱 I love exploring and working both in frontend and backend.
 - 🎭 I love connecting with new people and hearing their experiences.
 - 📫 How to reach me: 
     📧 shefalisawant99@gmail.com
-    🌐 https://www.linkedin.com/in/shefali-sawant-a18448191/
+    🌐 https://www.linkedin.com/in/shefalisawant
 - ✨ Tools and Techologies:
 
 <div>
